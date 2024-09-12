@@ -9,7 +9,7 @@ function pesquisar() {
 
     // se o campoPesquisa for uma string sem nada
     if (campoPesquisa == '') {
-        section.innerHTML = '<p>Não foi possível encontrar resultados para a pesquisa. Você precisa digitar a raça da personagem.</p>';
+        section.innerHTML = '<p>Não foi possível encontrar resultados para a pesquisa. Você precisa digitar a etnia da personagem.</p>';
         return;
     }
 
