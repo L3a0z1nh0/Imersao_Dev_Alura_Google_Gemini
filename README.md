@@ -54,6 +54,6 @@
 ![Dragão e nórdico:](assets/images/nord.gif)
 
 
-**[GitHub](https://github.com/L3a0z1nh0/Imersao_Dev_Alura_Google_Gemini)**
+**[Link do projeto na vercel!](https://github.com/L3a0z1nh0/Imersao_Dev_Alura_Google_Gemini)**
 
 
